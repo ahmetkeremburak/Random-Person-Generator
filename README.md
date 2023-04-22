@@ -1,2 +1,4 @@
 # Random-Person-Generator
-First homework for Java programming class in Sakarya University
+This is a simple Java project for Java Programming class in Sakarya University.
+There are two projects in this repo. One for generating a person, other for calling generated person's info.
+
